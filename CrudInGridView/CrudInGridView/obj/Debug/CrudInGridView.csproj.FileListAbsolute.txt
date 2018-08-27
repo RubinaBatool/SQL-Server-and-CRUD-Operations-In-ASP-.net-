@@ -1,0 +1,11 @@
+F:\Youtube Channel\Dotnet Mob\asp.net tutorial\gridview crud\project\CrudInGridView\CrudInGridView\bin\CrudInGridView.dll.config
+F:\Youtube Channel\Dotnet Mob\asp.net tutorial\gridview crud\project\CrudInGridView\CrudInGridView\bin\CrudInGridView.dll
+F:\Youtube Channel\Dotnet Mob\asp.net tutorial\gridview crud\project\CrudInGridView\CrudInGridView\bin\CrudInGridView.pdb
+F:\Youtube Channel\Dotnet Mob\asp.net tutorial\gridview crud\project\CrudInGridView\CrudInGridView\obj\Debug\CrudInGridView.csprojResolveAssemblyReference.cache
+F:\Youtube Channel\Dotnet Mob\asp.net tutorial\gridview crud\project\CrudInGridView\CrudInGridView\obj\Debug\CrudInGridView.dll
+F:\Youtube Channel\Dotnet Mob\asp.net tutorial\gridview crud\project\CrudInGridView\CrudInGridView\obj\Debug\CrudInGridView.pdb
+C:\Users\Rubina Batool\Desktop\FinalTaskkkkkkkk\CrudInGridView\CrudInGridView\obj\Debug\CrudInGridView.csprojResolveAssemblyReference.cache
+C:\Users\Rubina Batool\Desktop\FinalTaskkkkkkkk\CrudInGridView\CrudInGridView\obj\Debug\CrudInGridView.dll
+C:\Users\Rubina Batool\Desktop\FinalTaskkkkkkkk\CrudInGridView\CrudInGridView\obj\Debug\CrudInGridView.pdb
+C:\Users\Rubina Batool\Desktop\FinalTaskkkkkkkk\CrudInGridView\CrudInGridView\bin\CrudInGridView.dll
+C:\Users\Rubina Batool\Desktop\FinalTaskkkkkkkk\CrudInGridView\CrudInGridView\bin\CrudInGridView.pdb
